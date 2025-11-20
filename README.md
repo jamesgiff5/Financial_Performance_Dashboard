@@ -1,5 +1,21 @@
 # 📊 Financial Performance and Forecast Accuracy Dashboard
 
+<div align="center">
+
+  <img src="assets/Financial_Dashboard_1.png" width="48%" alt="Executive Financial Overview">
+  <img src="assets/Financial_Dashboard_2.png" width="48%" alt="Profitability & Cash Efficiency">
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="assets/Financial_Dashboard_3.png" width="48%" alt="Customer & Vendor Insights">
+  <img src="assets/Financial_Dashboard_4.png" width="48%" alt="Employee Expense Reimbursements">
+
+</div>
+
 This project analyzes revenue trends, cost behavior, margin movement, forecast accuracy, cash timing, and expense patterns for a synthetic small sized company operating from January 2023 through June 2025.
 
 The Power BI model connects GL actuals, budget and forecast data, AR, AP, and employee expense claims into a single view that helps explain how different parts of the business contribute to overall performance.
@@ -37,7 +53,7 @@ All DAX measures were centralized in a single _Measures table and built with Tab
 Display folders reflect a clean enterprise style layout for reporting and maintenance.
 
 Full technical documentation is available here:  
-📘 `/docs/Data_Model_Enrichment_Process.md`
+📘 [Data_Model_Enrichment_Process.md](Data_Model_Enrichment_Process.md)
 
 ---
 

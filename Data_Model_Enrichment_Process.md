@@ -31,7 +31,7 @@ A dedicated _Measures table stores all business KPIs and calculated metrics.
 
 Below is the full semantic model used in this project, showing all fact tables, dimensions, and relationships:
 
-![Financial Data Model](./assets/Financial_Dashboard_Data_Model.jpeg)
+![Financial Data Model](./assets/Financial_Dashboard_Data_Model.png)
 
 ---
 

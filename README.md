@@ -1,4 +1,4 @@
-# 📊 Financial Performance and Forecast Accuracy Dashboard
+# 📊 Financial Performance Dashboard
 
 <div align="center">
 
